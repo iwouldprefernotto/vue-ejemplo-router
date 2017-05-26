@@ -1,23 +1,16 @@
-# Vue.js Routing With vue-router
-## Sample Application
+# Enrutamiento VUEJS con Vue-router
+## Ejemplo básico de enrutamiento y enrutamiento anidado en VueJS
+Se hace uso de Workflow con Vue-Cli, WebPack, componentes .vue y vue-loader
 
-This is the sample app of the tutorial __Vue.js Routing With vue-router__ available on [CodingTheSmartWay.com](http://codingthesmartway.com/).
-
-## Online Course
-Check out the online course: [Vue.js: From Beginner To Professional](http://codingthesmartway.com/courses/vue-beginner-professional)
-
-## Build Setup
+## Instrucciones
 
 ``` bash
-# install dependencies
+# instalar dependencias
 npm install
 
-# serve with hot reload at localhost:8080
+# servidor de desarrollo con hot reload en localhost:8080
 npm run dev
 
-# build for production with minification
+# preparar para producción con minificación
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
